@@ -1,0 +1,56 @@
+html, body{
+	color:black;
+	padding:0px;
+	top:200px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	align:center;
+	background-color:#ffcccc;
+	font-weight:bold;
+	
+	}
+h1{
+	color:black;
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+	}
+
+
+table{
+	padding:30px;
+	align:right;
+	
+}
+
+tr{
+	text-align:center;
+	margine:40%;
+}
+input{
+	border-radius:10px;
+	border-width:2px;
+	height:30px;
+	width:200px;
+	
+	}
+	.add{
+	margin-top:5%;
+	margin-left:30%;
+	margin-right:30%;
+	border-radius:10px;
+	background-color:#ffe6e6;
+}
+.error{
+	color:red;
+	font-size:10px;
+	font-weight:lighter;
+}
+.save{
+	width:200px;
+	border-radius:10px;
+	margin-top:15px;
+	color:#73264d;
+	background-color:white;
+	height:35px;
+	font-weight:bold;
+	
+}
